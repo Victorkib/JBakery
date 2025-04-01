@@ -1,0 +1,42 @@
+/* Base theme variables */
+:root {
+  --background-primary: #ffffff;
+  --background-secondary: #f9fafb;
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+  --accent-color: #f59e0b;
+  --accent-hover: #d97706;
+  --border-color: #e5e7eb;
+  --card-bg: #ffffff;
+  --input-bg: #f3f4f6;
+  --success-color: #10b981;
+  --error-color: #ef4444;
+  --warning-color: #f59e0b;
+  --info-color: #3b82f6;
+}
+
+/* Dark theme variables */
+.dark {
+  --background-primary: #111827;
+  --background-secondary: #1f2937;
+  --text-primary: #f9fafb;
+  --text-secondary: #9ca3af;
+  --accent-color: #f59e0b;
+  --accent-hover: #fbbf24;
+  --border-color: #374151;
+  --card-bg: #1f2937;
+  --input-bg: #374151;
+  --success-color: #34d399;
+  --error-color: #f87171;
+  --warning-color: #fbbf24;
+  --info-color: #60a5fa;
+}
+
+/* Apply theme variables to elements */
+body {
+  background-color: var(--background-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* You can add more theme-specific styles here */

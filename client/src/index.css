@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+/* Add this import at the top of your index.css file */
+@import './styles/theme.css';
+
+/* Your other custom CSS can go here */

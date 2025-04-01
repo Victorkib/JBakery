@@ -1,0 +1,208 @@
+[2025-03-31T18:56:50.062Z] REQUEST: POST /api/auth/register - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T18:56:50.062Z] RESPONSE: POST /api/auth/register - Status: 201 - Duration: 4161ms - User: unauthenticated
+[2025-03-31T18:58:59.996Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T18:58:59.996Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 1065ms - User: unauthenticated
+[2025-03-31T18:59:01.148Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T18:59:01.148Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 447ms - User: unauthenticated
+[2025-03-31T18:59:29.234Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T18:59:29.234Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 1512ms - User: unauthenticated
+[2025-03-31T18:59:30.768Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T18:59:30.768Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 1016ms - User: unauthenticated
+[2025-03-31T19:01:11.913Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:01:11.913Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 2244ms - User: unauthenticated
+[2025-03-31T19:01:14.170Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:01:14.170Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 446ms - User: unauthenticated
+[2025-03-31T19:01:37.575Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:01:37.575Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 472ms - User: unauthenticated
+[2025-03-31T19:01:38.187Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:01:38.187Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 455ms - User: unauthenticated
+[2025-03-31T19:01:38.674Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:01:38.674Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 474ms - User: unauthenticated
+[2025-03-31T19:01:39.167Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:01:39.167Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 448ms - User: unauthenticated
+[2025-03-31T19:01:39.646Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:01:39.646Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 457ms - User: unauthenticated
+[2025-03-31T19:01:40.190Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:01:40.190Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 430ms - User: unauthenticated
+[2025-03-31T19:04:11.755Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:04:11.755Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 470ms - User: unauthenticated
+[2025-03-31T19:04:12.247Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:04:12.247Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 908ms - User: unauthenticated
+[2025-03-31T19:08:05.546Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:08:05.546Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 910ms - User: unauthenticated
+[2025-03-31T19:08:06.516Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:08:06.516Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 447ms - User: unauthenticated
+[2025-03-31T19:08:06.982Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:08:06.982Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 921ms - User: unauthenticated
+[2025-03-31T19:08:07.914Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:08:07.914Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 979ms - User: unauthenticated
+[2025-03-31T19:08:19.472Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:08:19.472Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 968ms - User: unauthenticated
+[2025-03-31T19:08:20.504Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:08:20.504Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 463ms - User: unauthenticated
+[2025-03-31T19:14:05.475Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:14:05.475Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 461ms - User: unauthenticated
+[2025-03-31T19:14:05.953Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:14:05.953Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 432ms - User: unauthenticated
+[2025-03-31T19:42:05.060Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:42:05.060Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 560ms - User: unauthenticated
+[2025-03-31T19:42:05.629Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:42:05.629Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 459ms - User: unauthenticated
+[2025-03-31T19:42:06.750Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:42:06.750Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 470ms - User: unauthenticated
+[2025-03-31T19:42:07.296Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:42:07.296Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 452ms - User: unauthenticated
+[2025-03-31T19:55:50.761Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:55:50.761Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 631ms - User: unauthenticated
+[2025-03-31T19:55:51.659Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T19:55:51.659Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 486ms - User: unauthenticated
+[2025-03-31T20:08:54.896Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:08:54.896Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 440ms - User: unauthenticated
+[2025-03-31T20:08:55.382Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:08:55.382Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 430ms - User: unauthenticated
+[2025-03-31T20:09:12.151Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:09:12.151Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 464ms - User: unauthenticated
+[2025-03-31T20:09:12.624Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:09:12.624Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 430ms - User: unauthenticated
+[2025-03-31T20:09:33.218Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:09:33.218Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 976ms - User: unauthenticated
+[2025-03-31T20:09:34.210Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:09:34.210Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 509ms - User: unauthenticated
+[2025-03-31T20:09:47.858Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:09:47.858Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 432ms - User: unauthenticated
+[2025-03-31T20:09:48.300Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:09:48.300Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 453ms - User: unauthenticated
+[2025-03-31T20:15:35.539Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:15:35.539Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 438ms - User: unauthenticated
+[2025-03-31T20:15:35.981Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:15:35.981Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 432ms - User: unauthenticated
+[2025-03-31T20:31:32.421Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:31:32.421Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 434ms - User: unauthenticated
+[2025-03-31T20:31:32.865Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:31:32.865Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 455ms - User: unauthenticated
+[2025-03-31T20:32:03.191Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:32:03.191Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 470ms - User: unauthenticated
+[2025-03-31T20:32:03.671Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:32:03.671Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 455ms - User: unauthenticated
+[2025-03-31T20:33:06.910Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:33:06.910Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 439ms - User: unauthenticated
+[2025-03-31T20:33:07.372Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:33:07.372Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 461ms - User: unauthenticated
+[2025-03-31T20:33:32.061Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:33:32.061Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 469ms - User: unauthenticated
+[2025-03-31T20:33:32.536Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:33:32.536Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 428ms - User: unauthenticated
+[2025-03-31T20:46:52.990Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:46:52.990Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 431ms - User: unauthenticated
+[2025-03-31T20:46:53.426Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:46:53.426Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 455ms - User: unauthenticated
+[2025-03-31T20:47:11.403Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:47:11.403Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 429ms - User: unauthenticated
+[2025-03-31T20:47:11.838Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:47:11.838Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 428ms - User: unauthenticated
+[2025-03-31T20:50:40.607Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:50:40.607Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 446ms - User: unauthenticated
+[2025-03-31T20:50:41.059Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:50:41.059Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 476ms - User: unauthenticated
+[2025-03-31T20:51:47.482Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:51:47.482Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 435ms - User: unauthenticated
+[2025-03-31T20:51:47.926Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:51:47.926Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 430ms - User: unauthenticated
+[2025-03-31T20:52:41.245Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:52:41.245Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 436ms - User: unauthenticated
+[2025-03-31T20:52:41.687Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:52:41.687Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 429ms - User: unauthenticated
+[2025-03-31T20:53:12.661Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:53:12.661Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 4448ms - User: unauthenticated
+[2025-03-31T20:53:17.228Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:53:17.228Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 1194ms - User: unauthenticated
+[2025-03-31T20:55:06.458Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:55:06.458Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 431ms - User: unauthenticated
+[2025-03-31T20:55:06.895Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:55:06.895Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 461ms - User: unauthenticated
+[2025-03-31T20:56:12.337Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:56:12.337Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 435ms - User: unauthenticated
+[2025-03-31T20:56:12.828Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:56:12.828Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 438ms - User: unauthenticated
+[2025-03-31T20:56:13.279Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:56:13.279Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 440ms - User: unauthenticated
+[2025-03-31T20:56:13.747Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:56:13.747Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 430ms - User: unauthenticated
+[2025-03-31T20:56:14.185Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:56:14.185Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 557ms - User: unauthenticated
+[2025-03-31T20:56:14.776Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:56:14.776Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 431ms - User: unauthenticated
+[2025-03-31T20:57:30.598Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:57:30.598Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 671ms - User: unauthenticated
+[2025-03-31T20:57:31.275Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:57:31.275Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 428ms - User: unauthenticated
+[2025-03-31T20:57:38.351Z] REQUEST: POST /api/auth/logout - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:57:38.351Z] RESPONSE: POST /api/auth/logout - Status: 200 - Duration: 23ms - User: unauthenticated
+[2025-03-31T20:59:49.505Z] REQUEST: POST /api/auth/forgot-password - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T20:59:49.505Z] RESPONSE: POST /api/auth/forgot-password - Status: 200 - Duration: 1426ms - User: unauthenticated
+[2025-03-31T21:04:53.780Z] REQUEST: GET /api/auth/validate-reset-token/7efb2f898fc01d1233df9bb28553b6c272f082dc - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:04:53.780Z] RESPONSE: GET /api/auth/validate-reset-token/7efb2f898fc01d1233df9bb28553b6c272f082dc - Status: 404 - Duration: 11ms - User: unauthenticated
+[2025-03-31T21:04:54.004Z] REQUEST: GET /api/auth/validate-reset-token/7efb2f898fc01d1233df9bb28553b6c272f082dc - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:04:54.004Z] RESPONSE: GET /api/auth/validate-reset-token/7efb2f898fc01d1233df9bb28553b6c272f082dc - Status: 404 - Duration: 2ms - User: unauthenticated
+[2025-03-31T21:16:43.012Z] REQUEST: POST /api/auth/forgot-password - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:16:43.012Z] RESPONSE: POST /api/auth/forgot-password - Status: 200 - Duration: 1173ms - User: unauthenticated
+[2025-03-31T21:16:58.175Z] REQUEST: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:16:58.175Z] RESPONSE: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - Status: 404 - Duration: 3ms - User: unauthenticated
+[2025-03-31T21:16:58.189Z] REQUEST: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:16:58.189Z] RESPONSE: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - Status: 404 - Duration: 3ms - User: unauthenticated
+[2025-03-31T21:17:18.801Z] REQUEST: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:17:18.801Z] RESPONSE: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - Status: 404 - Duration: 1ms - User: unauthenticated
+[2025-03-31T21:17:18.814Z] REQUEST: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:17:18.814Z] RESPONSE: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - Status: 404 - Duration: 1ms - User: unauthenticated
+[2025-03-31T21:17:34.446Z] REQUEST: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:17:34.446Z] RESPONSE: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - Status: 404 - Duration: 0ms - User: unauthenticated
+[2025-03-31T21:17:34.534Z] REQUEST: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:17:34.534Z] RESPONSE: GET /api/auth/validate-reset-token/3486a5e6939222983d974f2d2bfe9732dcadb750 - Status: 404 - Duration: 1ms - User: unauthenticated
+[2025-03-31T21:37:03.085Z] REQUEST: POST /api/auth/forgot-password - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:37:03.085Z] RESPONSE: POST /api/auth/forgot-password - Status: 200 - Duration: 1091ms - User: unauthenticated
+[2025-03-31T21:37:16.266Z] REQUEST: GET /api/auth/validate-reset-token/dcd4420e332bdcc162525913b7f0fb2eab2d32dd - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:37:16.266Z] RESPONSE: GET /api/auth/validate-reset-token/dcd4420e332bdcc162525913b7f0fb2eab2d32dd - Status: 404 - Duration: 3ms - User: unauthenticated
+[2025-03-31T21:37:16.281Z] REQUEST: GET /api/auth/validate-reset-token/dcd4420e332bdcc162525913b7f0fb2eab2d32dd - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:37:16.281Z] RESPONSE: GET /api/auth/validate-reset-token/dcd4420e332bdcc162525913b7f0fb2eab2d32dd - Status: 404 - Duration: 2ms - User: unauthenticated
+[2025-03-31T21:49:32.980Z] REQUEST: POST /api/auth/forgot-password - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:49:32.980Z] RESPONSE: POST /api/auth/forgot-password - Status: 200 - Duration: 1628ms - User: unauthenticated
+[2025-03-31T21:50:10.053Z] REQUEST: PUT /api/auth/reset-password/73fad48b630306c046ece9d8d894362770ad8ee4 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:50:10.053Z] RESPONSE: PUT /api/auth/reset-password/73fad48b630306c046ece9d8d894362770ad8ee4 - Status: 200 - Duration: 650ms - User: unauthenticated
+[2025-03-31T21:50:20.833Z] REQUEST: POST /api/auth/login - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T21:50:20.833Z] RESPONSE: POST /api/auth/login - Status: 401 - Duration: 516ms - User: unauthenticated
+[2025-03-31T22:06:12.174Z] REQUEST: POST /api/auth/login - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T22:06:12.174Z] RESPONSE: POST /api/auth/login - Status: 401 - Duration: 374ms - User: unauthenticated
+[2025-03-31T22:06:40.596Z] REQUEST: POST /api/auth/login - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T22:06:40.596Z] RESPONSE: POST /api/auth/login - Status: 401 - Duration: 363ms - User: unauthenticated
+[2025-03-31T22:59:12.529Z] REQUEST: POST /api/auth/login - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T22:59:12.529Z] RESPONSE: POST /api/auth/login - Status: 401 - Duration: 583ms - User: unauthenticated
+[2025-03-31T22:59:53.305Z] REQUEST: POST /api/auth/login - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T22:59:53.305Z] RESPONSE: POST /api/auth/login - Status: 401 - Duration: 409ms - User: unauthenticated
+[2025-03-31T22:59:56.583Z] REQUEST: POST /api/auth/resend-verification - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T22:59:56.583Z] RESPONSE: POST /api/auth/resend-verification - Status: 200 - Duration: 1264ms - User: unauthenticated
+[2025-03-31T23:00:50.863Z] REQUEST: GET /api/auth/verify-email/27e84fd45244408980263302187b7f52b8b9c4d8 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:00:50.863Z] RESPONSE: GET /api/auth/verify-email/27e84fd45244408980263302187b7f52b8b9c4d8 - Status: 200 - Duration: 996ms - User: unauthenticated
+[2025-03-31T23:00:51.872Z] REQUEST: GET /api/auth/verify-email/27e84fd45244408980263302187b7f52b8b9c4d8 - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:00:51.872Z] RESPONSE: GET /api/auth/verify-email/27e84fd45244408980263302187b7f52b8b9c4d8 - Status: 400 - Duration: 260ms - User: unauthenticated
+[2025-03-31T23:01:12.610Z] REQUEST: POST /api/auth/login - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:01:12.610Z] RESPONSE: POST /api/auth/login - Status: 200 - Duration: 658ms - User: unauthenticated
+[2025-03-31T23:01:13.586Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:01:13.586Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 496ms - User: unauthenticated
+[2025-03-31T23:01:14.093Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:01:14.093Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 443ms - User: unauthenticated
+[2025-03-31T23:01:35.712Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:01:35.712Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 432ms - User: unauthenticated
+[2025-03-31T23:01:36.150Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:01:36.150Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 429ms - User: unauthenticated
+[2025-03-31T23:56:54.312Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:56:54.312Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 520ms - User: unauthenticated
+[2025-03-31T23:56:54.909Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:56:54.909Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 433ms - User: unauthenticated
+[2025-03-31T23:56:55.354Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:56:55.354Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 468ms - User: unauthenticated
+[2025-03-31T23:56:56.004Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:56:56.004Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 549ms - User: unauthenticated
+[2025-03-31T23:56:58.210Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:56:58.210Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 478ms - User: unauthenticated
+[2025-03-31T23:56:58.765Z] REQUEST: GET /api/auth/me - User: unauthenticated - IP: ::1 - UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Avast/133.0.0.0
+[2025-03-31T23:56:58.765Z] RESPONSE: GET /api/auth/me - Status: 200 - Duration: 452ms - User: unauthenticated

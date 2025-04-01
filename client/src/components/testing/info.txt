@@ -1,0 +1,108 @@
+TOPIC: JAYBIE CAKE HOUSE CUSTOMER RELATIONSHIP MANAGEMENT
+CODE & UNIT TITLE KCA: BSD 3106 FINAL YEAR PROJECT 1
+PROGRAM: BSC.SOFTWARE DEVELOPMENT
+YOUR NAME: 21/05960 JOY BRENDA KENDI
+SUPERVISOR: GRIFFIN KENGA
+DATE SUBMITTED:7/10/2024
+TABLE OF CONTENTS
+Introduction ..................................................................................................................................1
+Background ................................................................................................................................ 1.1
+Problem Statement.....................................................................................................................1.2
+Propose Solution .........................................................................................................................1.3
+Objectives.....................................................................................................................................1.4
+Justification................................................................................................................................. 1.5
+Scope	...................................................................................................................................1.6
+Customer Database ................................................................................................................1.6.1
+Order Management ................................................................................................................ 1.6.2
+Set up a Loyalty Program ...................................................................................................... 1.6.3
+Automate Marketing and Promotions .................................................................................. 1.6.4
+Analytics and Reporting..........................................................................................................1.6.5
+Literature Review .................	2.1
+Cheese Cake Factory ................................................................................................................. 2.1 Valentine Cake House.................................................................................................................2.2
+Order Management	……………………………………………………………..	2.2.1
+Customer Feedback and Engagement …………………………………………………	2.2.2
+Methodology...................................................................................................................................3
+Research Methodology............................................................................................................... 3.1
+Development Methodology.........................................................................................................3.2
+RESOURCES................................................................................................................................ A
+BUDGET........................................................................................................................................B
+PROJECT SCHEDULE...............................................................................................................C
+RISK AND MITIGATION...........................................................................................................D
+REFERENCES..............................................................................................................................E
+Chapter One: Introduction
+1.1. Background
+Jaybie Cake House is a home bakery located in Nairobi county and offers its services countrywide. The bakery manufactures the items (Birthday cakes, customized cakes, muffins, cupcakes, cookies, bread, etc.). It was started in 2020 and due to COVID-19- they had to adapt and use social media platforms to market and talk to their clients. They then had to open a physical location on Ng’ong Road due to increased orders and sales. They have 10 employees and 10 are paid on wages. Most of their clients are far away and communicate through phone calls and WhatsApp Messenger,
+1.2 Problem Statement
+Jaybie Cake House faces challenges in managing customer relationships and tracking orders. They need help managing their customer interactions effectively. The bakery receives a high volume of orders, inquiries, and feedback through various channels (phone, email, and social media platforms like Facebook WhatsApp, etc). This has led to the following challenges:
+1)	Overwhelmed staff- Employees spend too much time manually tracking customer information, processing orders, and responding to inquiries.
+2)	Inconsistent customer experience- Customers experience varying service levels depending on the employees they interact with.
+3)	Missed sales opportunities- The bakery is unable to effectively follow up with potential customers or cross-sell additional products.
+4)	Difficulty analyzing customer data- The bakery lacks a centralized system to track customer preferences, purchase history, and feedback, making it difficult to identify trends and improve its offerings.
+1.3.	Proposed solution
+An efficient Customer Relationship Management is important to ensure their ability to provide excellent customer service, and improve operational efficiency, hence driving business growth.
+1.4.	Objectives
+Main objective: To develop a Customer Relationship Management (CRM) for Jaybie Cake House.
+Specific objectives:
+Centralize customer data by consolidating information through gathering and storing all customer data contact details, purchase history, preferences, and feedback in a single, accessible database.
+Enhance Customer Relationship Management to personalize interactions. Use customer data to tailor interactions and provide personalized recommendations.
+1.5.	Justification
+1.	Enhances Sales and Marketing -Targeted Campaigns since CRM helps identify high-value customers and segments the customer base for targeted marketing efforts.
+2.	Increases Efficiency - Automation tasks like appointment scheduling, follow-ups, and order processing to save time and reduce errors.
+3.	Data-Driven Decisions -CRM analytics provides insights into customer behavior, sales trends, and marketing effectiveness thus enabling data-driven decision-making.
+Justification to the bakery clients
+1.	Personalized Experience -Customers will feel valued and appreciated as their preferences and needs are met and surprised thus the bakery will gain their trust.
+2.	Efficient Services -Streamlined processes and automated tasks will lead to faster response times and more efficient service.
+3.	Relevant Communication: Customers will receive targeted offers and information that aligns with their interests.
+1.6.Scope
+Core Functions
+Customer Database -Store basic customer details like name, phone number, email, and preferences.
+Order Management - To track customer orders, including regular and custom orders.
+Loyalty Program: Reward repeat customers with points or discounts.
+Marketing Campaigns -This will personalize emails or SMS for promotions, discounts, or updates.
+Analytics and Reporting - generate basic reports, such as top customers, frequent purchases, and sales trends.
+1.6.1Customer Database Which will entail the following:
+Data fields:
+●	Customer Name
+●	Contact Info (Phone/Email)
+●	Birthday (for special promotions)
+●	Order Preferences (favorite products, dietary restrictions)
+The database will be created using Mongo Database and the input shall be manually.
+1.6.2 Order Management
+Track customer orders, including regular and custom orders.
+Easily track customer orders which includes repeat orders and custom requests.
+Create an order tracking sheet where the Jaybie Ake House staff will be able to input new orders and update their status.
+Order Number/ID
+Date of Order
+Product(s) Ordered (cake, pastry, etc.)
+Order Status (Pending, Completed, Canceled)
+Delivery/Pickup Time
+Total Price
+1.6.3 Set Up a Loyalty Program
+It encourages repeat customers with rewards and special offers.
+The loyalty system will entail -
+Customers will earn points from every purchase.
+Offers rewards like discounts, and birthday specials when they reach a certain number of points.
+1.6.4 Automate Marketing and Promotions
+Send personalized offers and notifications to increase customer engagement.
+Send special discounts to loyal customers.
+Promote new products, seasonal items, or limited-time offers.
+Wish customers happy birthday with a discount.
+Integrate the CRM with tools that will automatically send messages based on customer preferences and buying patterns.
+1.6.5 Analytics and Reporting: Generate basic reports, such as top customers, frequent purchases, and sales trends.
+Track key insights like customer behavior and sales trends.
+It will generate reports that will entail:
+Best-selling products
+Top customers by order volume or amount spent
+Sales trends (weekly)
+Use the CRM to filter out top customers and product trends.
+Chapter Two: Literature Review
+2.1 Cheese Cake Factory
+The Cheesecake Factory Bakery produces quality cheesecakes, layer cakes, and specialty items for leading-edge food service operators, retail and grocery, as well as The Cheesecake Factory restaurants.
+2.1.1 The factory has Creatio’s one platform a CRM to automate customer relationship management workflows with no code. The Cheesecake Factory Bakery will use Creatio to enable marketing, sales, and service teams to increase customer engagement with a unified customer view.
+2.1.2 It allows The Cheesecake Factory Bakery to integrate quickly and easily with other legacy infrastructures. Manual and paper-based workflows is also automated to better track demand planning, share production information, and assist in resource allocation and budgeting.
+2.2 Valentine's Cake House
+2.2.1 Order Management
+Tracking - Keep track of orders and customer interactions, making it easy to manage repeat orders or special requests.
+Automated reminders -Automatically remind customers about upcoming events (e.g., Valentine’s Day, weddings) where they might need cakes.
+2.2.2 Customer Feedback and Engagement
+Surveys - Collect feedback on customer experiences and preferences to improve customer service.

@@ -418,7 +418,7 @@ const BakeryAdminDashboard = () => {
                 { id: 'reports', label: 'Reports', icon: <PieChartIcon /> },
                 { id: 'inventory', label: 'Inventory', icon: <Package /> },
                 { id: 'staff', label: 'Staff', icon: <Users /> },
-                { id: 'promotions', label: 'Promotions', icon: <Gift /> },
+                // { id: 'promotions', label: 'Promotions', icon: <Gift /> },
                 { id: 'settings', label: 'Settings', icon: <Settings /> },
               ].map((item) => (
                 <li key={item.id} className="mb-2">
@@ -752,7 +752,7 @@ const BakeryAdminDashboard = () => {
                         </div>
                         <div className="ml-4">
                           <p className="text-3xl font-bold">
-                            ${summaryStats.totalRevenue.toLocaleString()}
+                            KSH {summaryStats.totalRevenue.toLocaleString()}
                           </p>
                           <p
                             className={`text-sm ${
@@ -850,7 +850,7 @@ const BakeryAdminDashboard = () => {
                         </div>
                         <div className="ml-4">
                           <p className="text-3xl font-bold">
-                            ${summaryStats.avgOrderValue.toFixed(2)}
+                            KSH {summaryStats.avgOrderValue.toFixed(2)}
                           </p>
                           <p
                             className={`text-sm ${
@@ -869,7 +869,7 @@ const BakeryAdminDashboard = () => {
                     {[
                       {
                         title: 'Total Revenue',
-                        value: '$15,245.89',
+                        value: 'KSH 15,245.89',
                         change: '+12.5%',
                         icon: <DollarSign className="text-green-500" />,
                         color: isDarkMode
@@ -1354,7 +1354,7 @@ const BakeryAdminDashboard = () => {
                                   </span>
                                 </td>
                                 <td className="py-3 text-right">
-                                  ${product.price}
+                                  KSH {product.price}
                                 </td>
                               </tr>
                             ))}
@@ -1422,7 +1422,7 @@ const BakeryAdminDashboard = () => {
                                     isDarkMode ? 'text-white' : 'text-gray-900'
                                   }`}
                                 >
-                                  ${order.total.toFixed(2)}
+                                  KSH {order.total.toFixed(2)}
                                 </p>
                                 <p
                                   className={`text-sm ${
@@ -1745,12 +1745,12 @@ const BakeryAdminDashboard = () => {
                 </div>
               )}
               {activeTab === 'reports' && <ReportsPage theme={theme} />}
-              {activeTab === 'promotions' && (
+              {/* {activeTab === 'promotions' && (
                 <div className="p-6 bg-white dark:bg-gray-800 rounded-lg shadow">
                   <h2 className="text-xl font-bold mb-4">Promotions</h2>
                   <p>Promotions interface will be displayed here.</p>
                 </div>
-              )}
+              )} */}
               {activeTab === 'settings' && (
                 <div className="p-6 bg-white dark:bg-gray-800 rounded-lg shadow">
                   <h2 className="text-xl font-bold mb-4">Settings</h2>
